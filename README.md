@@ -8,6 +8,9 @@
   <a href=https://Humanconsumerr.github.io>cool stuff</a>
   
 <br />
+</div>
+
+<div align="">
 
 <h3> daily driving :muscle:	:muscle:	:muscle:	</h3>
 
