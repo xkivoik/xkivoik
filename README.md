@@ -10,7 +10,7 @@
 <br />
 </div>
 
-<div align="">
+<div>
 
 <h3> daily driving :muscle:	:muscle:	:muscle:	</h3>
 
