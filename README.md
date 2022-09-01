@@ -1,13 +1,14 @@
-#readme.md
-
-<div align="left">
-  <br />
-  <a href=https://Humanconsumerr.github.io>Humanconsumerr.github.io</a>
-</div>
-<br />
-daily driving
+#HEADING1
 <div align="center">
+  <br />
+  <a href=https://Humanconsumerr.github.io>cool stuff</a>
+  
+----
 <br />
+
+daily driving :muscle:	:muscle:	:muscle:	
+<br />
+
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=flat&logo=StackExchange&logoColor=white)
