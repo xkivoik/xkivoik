@@ -1,19 +1,12 @@
 # humanconsumerr.github.io
-<h1 align="center">
-  <a href="https://github.com/dec0dOS/amazing-github-template">
-    <img src="{{cookiecutter.repo_slug}}/docs/images/logo.svg" alt="Logo" width="125" height="125">
-  </a>
-</h1>
 
 <div align="center">
-  Amazing GitHub Template - Sane defaults for your next project!
+ readme.md
   <br />
   <br />
   <a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
-  ·
-  <a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
   .
-  <a href="https://github.com/dec0dOS/amazing-github-template/discussions">Ask a Question</a>
+  <a href=https://Humanconsumerr.github.io>Humanconsumerr.github.io</a>
 </div>
 
 <div align="center">
