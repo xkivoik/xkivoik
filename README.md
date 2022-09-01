@@ -1,6 +1,6 @@
 #readme.md
 
-<div align="center">
+<div align="left">
   <br />
   <a href=https://Humanconsumerr.github.io>Humanconsumerr.github.io</a>
 </div>
@@ -8,8 +8,7 @@
 <div align="center">
 <br />
 
-##daily driving
-
+daily driving
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=flat&logo=StackExchange&logoColor=white)
