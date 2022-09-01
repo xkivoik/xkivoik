@@ -4,11 +4,9 @@
   <br />
   <a href=https://Humanconsumerr.github.io>Humanconsumerr.github.io</a>
 </div>
-
-<div align="center">
 <br />
-
 daily driving
+<div align="center">
 <br />
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
