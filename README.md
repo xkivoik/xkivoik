@@ -11,7 +11,11 @@
 
 daily driving :muscle:	:muscle:	:muscle:	
 <br />
-
+<p>
+    <a href="https://meta.stackexchange.com/users/1235930/humanconly">
+    <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=flat&logo=StackExchange&logoColor=white"
+         alt="Stackexchange">
+         
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
@@ -23,5 +27,6 @@ daily driving :muscle:	:muscle:	:muscle:
 
 ![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=flat&logo=StackExchange&logoColor=white)
 ![last.fm](https://img.shields.io/badge/last.fm-D51007?style=flat&logo=last.fm&logoColor=white)
+</p>
 
 </div>
