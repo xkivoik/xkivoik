@@ -1,13 +1,10 @@
 <div align="center">
 
   <br />
- <p align="center">
+ <p align="right">
   <img src="https://github.com/Humanconsumerr/Humanconsumerr.github.io/blob/main/scandi-61.png?raw=true" width="150" alt="accessibility text">
 </p>
-   
   <a href=https://Humanconsumerr.github.io>cool stuff</a>
-  
-<br />
 </div>
 
 <div align="center">
@@ -39,7 +36,5 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white"
          alt="Spotify">
 </p>
-
------------------
 
 </div>
