@@ -1,9 +1,7 @@
-# humanconsumerr.github.io
+#readme.md
 
 <div align="center">
- readme.md
   <br />
-  .
   <a href=https://Humanconsumerr.github.io>Humanconsumerr.github.io</a>
 </div>
 
