@@ -1,14 +1,3 @@
-<div>
-
-  <br />
- <p align="left">
-  <img src="https://github.com/Humanconsumerr/Humanconsumerr.github.io/blob/main/scandi-61.png?raw=true" width="150px" alt="accessibility text">
- <h4>
-  <a href=https://Humanconsumerr.github.io>cool stuff</a>
-  </h4>
-  </p>
-
-</div>
 
 <div align="center">
 
