@@ -1,9 +1,12 @@
-#HEADING1
 <div align="center">
+
   <br />
+ <p align="center">
+  <img src="https://github.com/Humanconsumerr/Humanconsumerr.github.io/blob/main/scandi-61.png?raw=true" width="250" alt="accessibility text">
+</p>
+   
   <a href=https://Humanconsumerr.github.io>cool stuff</a>
   
-----
 <br />
 
 daily driving :muscle:	:muscle:	:muscle:	
