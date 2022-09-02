@@ -10,7 +10,6 @@
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-
 </p>
 <h4> socials </h4>
 <p>
@@ -28,10 +27,6 @@
 <a href="https://open.spotify.com/user/deadtrees%3F?si=2b0422320f56499d">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white"
          alt="Spotify">
-<a href="">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"
-         alt="Telegram">
-
 </p>
 
 </div>
