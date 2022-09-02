@@ -1,17 +1,40 @@
 
 <div align="center">
 
-<h3> daily driving :muscle:	:muscle:	:muscle:</h3>
+<h3> daily driving :muscle: :muscle: :muscle:</h3>
 <p>
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white)
-
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
+<a href="">
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat"
+    alt="Arch Linux">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"
+    alt="Ubuntu">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"
+    alt="Windows">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Manjaro&logoColor=white"
+    alt="Manjaro">
+</a>
 
 </p>
+
+<p>
+<a href="">
+    <img src ="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white
+    alt="blender">
+</a>
+
+<a href="">
+    <img src="https://img.shields.io/badge/inkscape-%23F5792A.svg?style=flat&logo=Figma&logoColor=white"
+    alt="Figma">
+</a>
+</p>
+
 <h4> socials </h4>
 <p>
     <a href="https://meta.stackexchange.com/users/1235930/humanconly">
@@ -28,9 +51,6 @@
 <a href="https://open.spotify.com/user/deadtrees%3F?si=2b0422320f56499d">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white"
          alt="Spotify">
-<a href="">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"
-         alt="Telegram">
 
 </p>
 
