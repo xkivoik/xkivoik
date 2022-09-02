@@ -18,7 +18,7 @@
          alt="Stackexchange">
 
 <a href="https://stackoverflow.com/users/19682390/humanconly">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=social&logo=stack-overflow&logoColor=white"
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"
         alt="stackoverflow">
 
 <a href="https://www.last.fm/">
