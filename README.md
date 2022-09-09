@@ -29,10 +29,6 @@
     alt="blender">
 </a>
 
-<a href="">
-    <img src="https://img.shields.io/badge/inkscape-%23F5792A.svg?style=flat&logo=Figma&logoColor=white"
-    alt="Figma">
-</a>
 </p>
 
 <h4> socials </h4>
