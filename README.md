@@ -44,6 +44,7 @@
 <a href="https://www.last.fm/">
     <img src="https://img.shields.io/badge/last.fm-D51007?style=flat&logo=last.fm&logoColor=white"
          alt="Last.fm">
+         
 <a href="https://open.spotify.com/user/deadtrees%3F?si=2b0422320f56499d">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white"
          alt="Spotify">
