@@ -13,12 +13,6 @@
     alt="Manjaro">
 
 </p>
-
-<p>
-    <img src ="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white"
-    alt="blender">
-</p>
-
 <h4> socials </h4>
 <p>
     <a href="https://meta.stackexchange.com/users/1235930/humanconly">
