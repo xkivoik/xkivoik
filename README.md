@@ -17,7 +17,7 @@
     alt="Windows">
 </a>
 <a href="">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Manjaro&logoColor=white"
+    <img src="https://img.shields.io/badge/Manjaro-3DDC84?style=flat&logo=Manjaro&logoColor=white"
     alt="Manjaro">
 </a>
 
