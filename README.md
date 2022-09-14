@@ -7,23 +7,16 @@
     alt="Arch Linux">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"
     alt="Ubuntu">
-<a href="">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"
     alt="Windows">
-</a>
-<a href="">
     <img src="https://img.shields.io/badge/Manjaro-3DDC84?style=flat&logo=Manjaro&logoColor=white"
     alt="Manjaro">
-</a>
 
 </p>
 
 <p>
-<a href="">
-    <img src ="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white
+    <img src ="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white"
     alt="blender">
-</a>
-
 </p>
 
 <h4> socials </h4>
