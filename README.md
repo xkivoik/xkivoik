@@ -3,15 +3,10 @@
 
 <h3> daily driving :muscle: :muscle: :muscle:</h3>
 <p>
-
-<a href="">
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat"
     alt="Arch Linux">
-</a>
-<a href="">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"
     alt="Ubuntu">
-</a>
 <a href="">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"
     alt="Windows">
