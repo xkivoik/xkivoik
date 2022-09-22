@@ -42,5 +42,6 @@
     <img src="https://lastfm-recently-played.vercel.app/api?user=xkiv" />
   </a>
 </p>
-
 </div>
+    
+[last.fm](https://lastfm-recently-played.vercel.app/api?user=xkiv)
