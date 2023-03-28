@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h3> daily driving :muscle: :muscle: :muscle:</h3>
+<h3> OS & nerd socials </h3>
 <p>
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat"
     alt="Arch Linux">
@@ -9,16 +9,10 @@
     alt="Ubuntu">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"
     alt="Windows">
-    <img src="https://img.shields.io/badge/Manjaro-3DDC84?style=flat&logo=Manjaro&logoColor=white"
-    alt="Manjaro">
 
 </p>
-<h4> socials </h4>
-<p>
-    <a href="https://meta.stackexchange.com/users/1235930/humanconly">
-    <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=flat&logo=StackExchange&logoColor=white"
-         alt="Stackexchange">
 
+<p>
 <a href="https://stackoverflow.com/users/19682390/humanconly">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"
         alt="stackoverflow">
@@ -35,9 +29,9 @@
 
 </div>
 
-<h3 align=left> scrobbles </h3>
+<h3 align="center"> scrobbles </h3>
 <div>
-<p align="left">
+<p align="center">
   <a href="https://last.fm/user/xkiv">
     <img src="https://lastfm-recently-played.vercel.app/api?user=xkiv" />
   </a>
