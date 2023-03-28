@@ -1,5 +1,5 @@
 
-<div align="left">
+<div align="center">
 
 <h3> daily driving :muscle: :muscle: :muscle:</h3>
 <p>
